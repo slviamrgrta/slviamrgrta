@@ -40,7 +40,7 @@
 
 ## 🏆 GitHub Trophies
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=yourgithubusername&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=slviamrgrta&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
