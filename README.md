@@ -44,15 +44,4 @@
 
 ---
 
-## 📈 GitHub Contribution Graph
-
-[![Silvia's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=yourgithubusername&theme=react-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
----
-
-## 🐍 GitHub Contribution Snake
-
-![GitHub Snake](https://raw.githubusercontent.com/yourgithubusername/yourgithubusername/output/github-contribution-grid-snake.svg)
-
-
 _Thanks for stopping by! Let's grow and learn together in this amazing world of data! 🌱📊_
