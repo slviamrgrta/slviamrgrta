@@ -1,10 +1,10 @@
 ## ✨ About Me
 
-🎓 Hi, I'm Silvia! A 6th semester Data Science student at UBM with a strong curiosity about how data can be transformed into meaningful insights.
+🎓 Hi, I'm **Silvia** — a 6th semester Data Science student at UBM with a strong curiosity about how data can be transformed into meaningful insights.
 
-🔍 I enjoy exploring topics like data analytics, data warehousing, and clustering — and I’m currently diving deeper into SQL, Python, and various data tools.
+🔍 I enjoy exploring topics like **data analytics**, **data warehousing**, and **clustering**, and I’m currently diving deeper into **SQL**, **Python**, and various data tools.
 
-📚 Actively learning through academic projects, self-paced courses, and real-world practice. I believe that consistent learning and collaboration are key to growth.
+📚 Actively learning through academic projects, self-paced courses, and real-world practice. I believe that **consistent learning** and **collaboration** are key to growth.
 
 🤝 Always open to connecting with fellow learners, data professionals, and anyone passionate about tech and data!
 
@@ -13,7 +13,8 @@
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silvia-margareta/)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/slvia_mrgrta?igsh=bzkxYWxrNXl6OHR2)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/slvia_mrgrta?igsh=bzkxYWxrNXl6OHR2)  
+📧 **Email:** [silviamargareta1363@gmail.com](mailto:silviamargareta1363@gmail.com)
 
 ---
 
@@ -23,18 +24,19 @@
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Silvia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=slviamrgrta&show_icons=true&theme=radical)
-![Top Langs](![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slviamrgrta&layout=compact&theme=radical))
-![GitHub Streak](https://streak-stats.demolab.com/?user=yourgithubusername&theme=radical)
+![Silvia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=slviamrgrta&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slviamrgrta&layout=compact&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=slviamrgrta&theme=radical)
 
 ---
 
