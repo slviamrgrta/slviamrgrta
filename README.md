@@ -30,11 +30,29 @@
 
 ---
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
 
 ![Silvia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com/?user=yourgithubusername&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=yourgithubusername&theme=radical)
+
+---
+
+## 🏆 GitHub Trophies
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=yourgithubusername&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 📈 GitHub Contribution Graph
+
+[![Silvia's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=yourgithubusername&theme=react-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+---
+
+## 🐍 GitHub Contribution Snake
+
+![GitHub Snake](https://raw.githubusercontent.com/yourgithubusername/yourgithubusername/output/github-contribution-grid-snake.svg)
 
 
 _Thanks for stopping by! Let's grow and learn together in this amazing world of data! 🌱📊_
